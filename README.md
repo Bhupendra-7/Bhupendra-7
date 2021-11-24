@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhupendra-7
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Python-Django
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
